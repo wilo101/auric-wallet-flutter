@@ -3,13 +3,21 @@
 A personal-finance wallet app built with Flutter. Dark green and gold design, Firebase-ready data layer, and an AI spending-insights feature.
 
 > Personal demo project. Not a client project and not published on any store.
-> Built with an AI-assisted workflow. The Dart code has unit tests but has **not yet been run on a device or emulator**, and the images in `docs/screens` are UI mockups of the designed screens, not recordings of the running app.
+> Built with an AI-assisted workflow. The Dart code has unit tests but has **not yet been run on a device or emulator**, and the images in `docs/screens` are premium glass-style UI mockups of the designed screens, not recordings of the running app.
 
 ## Screens
 
 | Login | Home | AI insights | Activity |
 |---|---|---|---|
 | ![](docs/screens/auric-1-login.png) | ![](docs/screens/auric-2-home.png) | ![](docs/screens/auric-3-insights.png) | ![](docs/screens/auric-4-activity.png) |
+
+## Arabic (RTL) screens
+
+The same four screens with Egyptian Arabic copy and a full right-to-left layout. Mockups only, not app recordings. Arabic text is set in Thmanyah Sans by Thmanyah (free font).
+
+| 1 | 2 | 3 | 4 |
+|---|---|---|---|
+| ![](docs/screens/ar/auric-1-login.png) | ![](docs/screens/ar/auric-2-home.png) | ![](docs/screens/ar/auric-3-insights.png) | ![](docs/screens/ar/auric-4-activity.png) |
 
 ## What it shows
 
